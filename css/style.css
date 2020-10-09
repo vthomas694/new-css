@@ -1,0 +1,178 @@
+body
+{
+  background:      ;/* couleur du fond */
+  font-family: "Arial", sans-serif; /*définition de la police d'écriture*/
+  color: ;      /*définition de la ouleur de la police*/
+}
+
+header
+{
+
+}
+
+.banniere
+{
+
+}
+
+article
+{
+    margin-left: 16px;
+}
+
+aside
+{
+    margin-right: 16px;
+}
+
+footer
+{
+  padding: 16px;
+
+}
+
+#titre_principal h1
+{
+
+}
+
+.logo
+{
+
+}
+
+.logo img
+{
+    width: auto;
+    height: 60px;
+}
+
+header h1, article h1, nav a
+{
+    font-size: 24px;
+    margin: 16px;
+}
+
+nav ul
+{
+    list-style-type: none;
+
+}
+
+nav li
+{
+    margin-right: 10px;
+}
+
+nav a
+{
+    font-size: 20px;
+    color: #2f2d29;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #beb8b8;
+}
+
+#banniere_image
+{
+  width : auto;
+  height: 240px;
+
+}
+
+article,  aside
+{
+
+}
+
+article
+{
+    margin-right: 20px;
+}
+
+article,aside p
+{
+    font-size: 16px;
+}
+
+aside
+{
+    background-color: ; /*définition de la couleur du fond du aside*/
+    box-shadow: 0px 2px 5px #1c1a19;
+    border-radius: 5px;
+    padding: 10px;
+    color: ; /*couleur de la police du aside*/
+    font-size: 14px;
+}
+
+aside h1
+{
+
+    font-size: 24px;
+}
+
+.liens
+{
+    color: ; /*définition de la couleur des liens*/
+}
+
+.liens:hover
+{
+  color: ; /*définition de la couleur des liens lors d'un survol de la souris*/
+}
+
+#fleche_bulle
+{
+    position: absolute;
+    top: 100px;
+    left: -12px;
+}
+
+aside img
+{
+    margin-right: 5px;
+}
+
+
+#social
+{
+
+}
+
+footer p, footer ul
+{
+    font-size: 13px;
+}
+
+footer h1
+{
+    font-size: 18px;
+}
+
+#des_photos img
+{
+    border: 1px solid #181818;
+    margin-right: 20px;
+}
+
+#listes_sites
+{
+
+    margin-top: 0;
+}
+
+#sites_interessants ul
+{
+    list-style-image: url('images/ico_liensexterne.png');
+    padding-left: 24px;
+}
+
+#sites_interessants a
+{
+  text-decoration: none ;
+  color: #760001 ;
+}
